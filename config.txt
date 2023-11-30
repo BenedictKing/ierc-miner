@@ -22,3 +22,4 @@ gas_tip = 3
 # 最大gas费用
 # 你可以不改这个 这个值必须要比ethgas高
 gas_max = 50
+enable_api = true
